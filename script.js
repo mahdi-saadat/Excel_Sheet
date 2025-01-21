@@ -1,4 +1,4 @@
-const scriptURL = 'Your Google App Script URL'; // Replace with your actual URL
+const scriptURL = 'https://script.google.com/macros/s/AKfycbymnVfSvamcLgWoFNd0-NvfsB2oMTC61Vkgx2mF3o1px_87PagRmgmy_Z-hxDsfBgHH3A/exec'; // Replace with your actual URL
 
 const form = document.forms['contact-form'];
 
